@@ -3,9 +3,11 @@ layout: page
 title: About
 ---
 
-### 👋 Hi! I’m Joel Glovier. I lead design at [Netlify](https://www.netlify.com/)
+### 👋 Hi! I’m Liliya Akhtyamova. I am a PhD student at [TU Dublin](https://www.tudublin.ie/)
 
-Before joining Netlify in June of 2018, I was a product design lead at [GitHub](https://blog.github.com/2016-12-07-introducing-review-requests/) where I worked with several teams over the course of my five years there including: platform & ecosystem, core workflow, design systems, the creative department, new user experience, and user growth.
+More about me soon.
+
+<!-- Before joining Netlify in June of 2018, I was a product design lead at [GitHub](https://blog.github.com/2016-12-07-introducing-review-requests/) where I worked with several teams over the course of my five years there including: platform & ecosystem, core workflow, design systems, the creative department, new user experience, and user growth.
 
 Prior to GitHub I was a visual design engineer and tech lead at [appendTo](http://appendto.com/), a front-end shop, where I worked on awesome client projects like the [TIME Magazine responsive redesign](/case-studies/appendto/implementing-the-responsive-redesign-of-time-com/).
 
@@ -98,4 +100,4 @@ I'd like to take a moment to acknowledge those who have offered their work for t
 
 ### Etc
 
-- [Feedback](https://github.com/jglovier/jglovier.github.io/pull/70) from [friends](https://dribbble.com/emrichard) and friendly folks on GitHub
+- [Feedback](https://github.com/jglovier/jglovier.github.io/pull/70) from [friends](https://dribbble.com/emrichard) and friendly folks on GitHub -->

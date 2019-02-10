@@ -12,14 +12,14 @@
 
   <!-- favicons -->
 
-  <link rel="icon" type="image/x-icon" href="/favicon.png?v=3" />
-  <link rel="shortcut icon" type="image/x-icon" href="/favicon.png?v=3" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico?v=3" />
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=3" />
 
   <!-- for search engines and other machines -->
   <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
-  <link rel="author" href="https://plus.google.com/+JoelGlovier/posts">
-  <link href='http://joelglovier.com/feed.xml' rel='alternate' type='application/rss+xml'>
-  <meta name="copyright" content="Joel Andrew Glovier 2013" />
+  <link rel="author" href="https://plus.google.com/+LiliyaAkhtyamova/posts">
+  <link href='http://datawhizette.github.io/feed.xml' rel='alternate' type='application/rss+xml'>
+  <meta name="copyright" content="Liliya Akhtyamova" />
   <meta name="description" content="{{ site.description }}" />
   <meta name="robots" content="index, follow" />
   <meta name="google-site-verification" content="rfhW_LUYYbZ4kwHGGZqplNsGs5eFB1-H8UEfmF6lE9o" />
@@ -34,14 +34,14 @@
   <!-- for social media -->
 
   {% if page.categories %}
-  <meta property="og:image" content="http://joelglovier.com/img/ogimgs/{{ page.categories | first }}.jpg" />
-  <meta property="og:author" content="https://www.facebook.com/joelglovier" />
+  <meta property="og:image" content="http://datawhizette.github.io/img/ogimgs/{{ page.categories | first }}.jpg" />
+  <!-- <meta property="og:author" content="https://www.facebook.com/joelglovier" /> -->
   <meta property="og:type" content="article" />
-  <meta name="twitter:image:src" content="http://joelglovier.com/img/ogimgs/{{ page.categories | first }}.jpg">
+  <meta name="twitter:image:src" content="http://datawhizette.github.io/img/ogimgs/{{ page.categories | first }}.jpg">
   <meta name="twitter:card" content="summary_large_image">
   {% else %}
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="http://joelglovier.com/img/ogimgs/default.jpg" />
+  <meta property="og:image" content="http://datawhizette.github.io/img/ogimgs/default.jpg" />
   <meta name="twitter:card" content="summary">
   {% endif %}
 
@@ -55,9 +55,9 @@
   <meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
   {% endif %}
 
-  <meta name="twitter:domain" content="joelglovier.com">
-  <meta name="twitter:site" content="@jglovier">
-  <meta name="twitter:creator" content="@jglovier">
-  <meta property="og:site_name" content="Joel Glovier's blog" />
-  <meta property="og:url" content="http://joelglovier.com{{ page.url | replace:'index.html','' }}/" />
+  <meta name="twitter:domain" content="datawhizette.github.io">
+  <meta name="twitter:site" content="@datawhizette">
+  <meta name="twitter:creator" content="@datawhizette">
+  <meta property="og:site_name" content="Data Whizette blog" />
+  <meta property="og:url" content="http://datawhizette.github.io{{ page.url | replace:'index.html','' }}/" />
 </head>
