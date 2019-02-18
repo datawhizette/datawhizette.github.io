@@ -1,4 +1,4 @@
-joelglovier.com [![Build Status](https://travis-ci.org/jglovier/jglovier.github.io.png)](https://travis-ci.org/jglovier/jglovier.github.io)
+<!-- joelglovier.com [![Build Status](https://travis-ci.org/jglovier/jglovier.github.io.png)](https://travis-ci.org/jglovier/jglovier.github.io)
 ==================
 
 ## About the Site
@@ -26,4 +26,4 @@ Feel free to inspect the code structure, and reuse what is appropriate. But plea
 - img/
 - fonts/ (these fonts are licensed only for my own use)
 
-All other directories and files are MIT Licensed (where applicable).
+All other directories and files are MIT Licensed (where applicable). -->
