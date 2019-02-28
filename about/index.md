@@ -5,7 +5,7 @@ title: About
 
 ### 👋 Hi! I’m Liliya Akhtyamova. I am a PhD student at [TU Dublin](https://www.tudublin.ie/)
 
-More about me soon.
+More in this section soon.
 
 <!-- Before joining Netlify in June of 2018, I was a product design lead at [GitHub](https://blog.github.com/2016-12-07-introducing-review-requests/) where I worked with several teams over the course of my five years there including: platform & ecosystem, core workflow, design systems, the creative department, new user experience, and user growth.
 
